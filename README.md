@@ -1,4 +1,4 @@
-Large Scale Clustering on Stack overflow dataset using Apache Spark
+# Large Scale Clustering on Stack overflow dataset using Apache Spark
 
 This project aims at applying K-means clustering algorithm on the StackOverflow dataset to group similar Users and Posts. Appropriate features are selected to extract skill set of Users and relevance of the Posts. 
 
